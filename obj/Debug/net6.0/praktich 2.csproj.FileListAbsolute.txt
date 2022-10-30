@@ -1,0 +1,15 @@
+D:\praktich 2\bin\Debug\net6.0\praktich 2.exe
+D:\praktich 2\bin\Debug\net6.0\praktich 2.deps.json
+D:\praktich 2\bin\Debug\net6.0\praktich 2.runtimeconfig.json
+D:\praktich 2\bin\Debug\net6.0\praktich 2.dll
+D:\praktich 2\bin\Debug\net6.0\praktich 2.pdb
+D:\praktich 2\obj\Debug\net6.0\praktich 2.csproj.AssemblyReference.cache
+D:\praktich 2\obj\Debug\net6.0\praktich 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\praktich 2\obj\Debug\net6.0\praktich 2.AssemblyInfoInputs.cache
+D:\praktich 2\obj\Debug\net6.0\praktich 2.AssemblyInfo.cs
+D:\praktich 2\obj\Debug\net6.0\praktich 2.csproj.CoreCompileInputs.cache
+D:\praktich 2\obj\Debug\net6.0\praktich 2.dll
+D:\praktich 2\obj\Debug\net6.0\refint\praktich 2.dll
+D:\praktich 2\obj\Debug\net6.0\praktich 2.pdb
+D:\praktich 2\obj\Debug\net6.0\praktich 2.genruntimeconfig.cache
+D:\praktich 2\obj\Debug\net6.0\ref\praktich 2.dll
